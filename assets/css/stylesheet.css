@@ -1,0 +1,58 @@
+.navbar{
+    background-image: url('snowbird.jpg');
+    background-size: cover;
+}
+.navbar-brand {
+    color: #000000;
+}
+.navbar-toggler-icon {
+    order:0;
+    float: left;
+  }
+.navbar-link {
+    color: black;
+    padding-right: .5rem;
+    padding-left: .5rem;
+}
+.navbar-link:hover {
+    cursor: pointer;
+    color: darkgray;
+}
+.container {
+    margin-top: 25px;
+}
+body {
+    background-image: url('snowbird.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    font-family: 'Ubuntu', sans-serif;
+}
+.name {
+    text-align: center;
+}
+.resume {
+    color: black;
+    margin-left: 15px;
+}
+.resume:hover{
+    color: darkgray;
+}
+a {
+    color: black;
+}
+a:hover {
+    color: darkgray;
+}
+/* body 
+{
+background-image: url('http://www.birds.com/wp-content/uploads/home/bird4.jpg');
+padding-left: 11em;
+padding-right: 20em;
+font-family:
+Georgia, "Times New Roman",
+Times, serif; 
+color: red;
+
+
+} */
